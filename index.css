@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+img {
+	height:  800px;
+    width: 70%;
+    background-color: powderblue;
+	position:center;
+}
